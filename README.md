@@ -1,5 +1,5 @@
 ## Hellooo, I'm <span style="color: #0a4e5a;">MarioYellowy</span> ✌️
-### A passionate software developer from México
+### A passionate software engineer from México
 ![Banner](/Banner.png)
 
 ## 🌐 Socials:
